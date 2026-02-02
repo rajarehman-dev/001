@@ -1,0 +1,2 @@
+# 001
+Learn Javascript.
