@@ -1,1 +1,2 @@
-console.log('003')
+"use strict";
+
