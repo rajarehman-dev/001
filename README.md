@@ -15,8 +15,8 @@ Day : 02-02-2026
     Variables are const and let , also var ( which is recomended not to use )
     const represents constant values , let gives variables ( in JS unlike C++ , There is no need for manually declairing variable type )
     
-    use typeof VN to check type of any variable on runtime.
-    any variable can be converted into any other variable , However the value might get lost if it is improper.
+    use typeof VN to check type of any variable on runtime
+    any variable can be converted into any other variable , However the value might get lost if it is improper
     For example :-
     ( 1 )
     let x = "911"
@@ -32,7 +32,7 @@ Day : 02-02-2026
     console.log(x)
     [ Here the NaN represents "Not a Number" , the value 911pkg is lost and the variable is useless ]
     
-    parseInt() is a built in function that can be used to pull out numerical values in a variable.
+    parseInt() is a built in function that can be used to pull out numerical values in a variable
 
     ++X increments the value before usage
     X++ increments the value after usage
@@ -60,5 +60,10 @@ Day : 02-02-2026
 
 Day : 02-02-2026
 {
+    Stack and heap are data types used mainly by the memory management module of a language , Unlike C++ there is a garbage collector that
+    makes the life of a developer significantly easier , However the mechanish of a stack and heap are fun to know
+    Stack : When the "what" and "How much" is known , Heap : When the memory requirment changes on runtime
+
     
+
 }
